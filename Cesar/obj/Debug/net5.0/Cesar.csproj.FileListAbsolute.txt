@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Cesar\Cesar\bin\Debug\net5.0\Cesar.exe
+C:\Users\PC\source\repos\Cesar\Cesar\bin\Debug\net5.0\Cesar.deps.json
+C:\Users\PC\source\repos\Cesar\Cesar\bin\Debug\net5.0\Cesar.runtimeconfig.json
+C:\Users\PC\source\repos\Cesar\Cesar\bin\Debug\net5.0\Cesar.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Cesar\Cesar\bin\Debug\net5.0\Cesar.dll
+C:\Users\PC\source\repos\Cesar\Cesar\bin\Debug\net5.0\ref\Cesar.dll
+C:\Users\PC\source\repos\Cesar\Cesar\bin\Debug\net5.0\Cesar.pdb
+C:\Users\PC\source\repos\Cesar\Cesar\obj\Debug\net5.0\Cesar.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Cesar\Cesar\obj\Debug\net5.0\Cesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Cesar\Cesar\obj\Debug\net5.0\Cesar.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Cesar\Cesar\obj\Debug\net5.0\Cesar.AssemblyInfo.cs
+C:\Users\PC\source\repos\Cesar\Cesar\obj\Debug\net5.0\Cesar.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cesar\Cesar\obj\Debug\net5.0\Cesar.dll
+C:\Users\PC\source\repos\Cesar\Cesar\obj\Debug\net5.0\ref\Cesar.dll
+C:\Users\PC\source\repos\Cesar\Cesar\obj\Debug\net5.0\Cesar.pdb
+C:\Users\PC\source\repos\Cesar\Cesar\obj\Debug\net5.0\Cesar.genruntimeconfig.cache
